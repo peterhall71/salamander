@@ -218,8 +218,5 @@ void loop() {
 
   Serial.println("------------------------------------");
   delay(100);
-<<<<<<< Updated upstream
-=======
-  
->>>>>>> Stashed changes
+
 }
