@@ -5,7 +5,7 @@ Fitbit style sensor package created with Particle Argon and Adafruit sensors.
 ### Hardware
 
 Particle Argon WiFi Development Board https://store.particle.io/products/argon  
-Adafruit BNO055 Absolute Orientation Sensor https://learn.adafruit.com/adafruit-bno055-absolute-orientation-sensor/overview  
+Adafruit BNO055 Absolute Orientation Sensor https://learn.adafruit.com/adafruit-bno055-absolute-orientation-sensor  
 Melexis MLX90614 Contact-less Infrared Sensor https://www.adafruit.com/product/1747  
 Adafruit MMA8451 Triple-Axis Accelerometer https://www.adafruit.com/product/2019  
 
