@@ -2,12 +2,14 @@
 
 Fitbit style sensor package created with Particle Argon and Adafruit sensors.
 
-## Hardware
+### Hardware
 
-Particle Argon WiFi Development Board https://store.particle.io/products/argon
-Adafruit BNO055 Absolute Orientation Sensor https://learn.adafruit.com/adafruit-bno055-absolute-orientation-sensor/overview
-Melexis MLX90614 Contact-less Infrared Sensor https://www.adafruit.com/product/1747
-Adafruit MMA8451 Triple-Axis Accelerometer https://www.adafruit.com/product/2019
+Particle Argon WiFi Development Board https://store.particle.io/products/argon  
+Adafruit BNO055 Absolute Orientation Sensor https://learn.adafruit.com/adafruit-bno055-absolute-orientation-sensor/overview  
+Melexis MLX90614 Contact-less Infrared Sensor https://www.adafruit.com/product/1747  
+Adafruit MMA8451 Triple-Axis Accelerometer https://www.adafruit.com/product/2019  
+
+### File Structure
 
 #### ```/src``` folder:  
 This is the source folder that contains the firmware file.
@@ -21,7 +23,7 @@ This file is the firmware that will run as the primary application on the Partic
 #### ```/lib``` folder:  
 This is the file that contains the libraries for the three boards.
 
-## Compiling
+### Compiling
 
 When you're ready to compile the application, make sure you have the correct Particle device target selected and run `particle compile <platform>` in the CLI or click the Compile button in the Desktop IDE. The following files in your project folder will be sent to the compile service:
 
