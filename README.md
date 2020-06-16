@@ -9,9 +9,7 @@ Adafruit BNO055 Absolute Orientation Sensor https://learn.adafruit.com/adafruit-
 Melexis MLX90614 Contact-less Infrared Sensor https://www.adafruit.com/product/1747  
 Adafruit MMA8451 Triple-Axis Accelerometer https://www.adafruit.com/product/2019  
 
-
-
-
+<br>
 <p align="center">
 <img src="https://github.com/peterhall71/salamander/blob/master/images/salamander_prototype.JPG" alt="salamander prototype" width="400"/>
 </p>
