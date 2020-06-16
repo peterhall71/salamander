@@ -10,7 +10,7 @@ Melexis MLX90614 Contact-less Infrared Sensor https://www.adafruit.com/product/1
 Adafruit MMA8451 Triple-Axis Accelerometer https://www.adafruit.com/product/2019  
 
 
-![salamander prototype](https://github.com/peterhall71/salamander/blob/master/images/salamander_prototype.JPG?raw=true)
+![salamander prototype](https://github.com/peterhall71/salamander/blob/master/images/salamander_prototype.JPG?raw=true "salamander prototype")
 
 
 ### File Structure
