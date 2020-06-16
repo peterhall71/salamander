@@ -9,15 +9,18 @@ Adafruit BNO055 Absolute Orientation Sensor https://learn.adafruit.com/adafruit-
 Melexis MLX90614 Contact-less Infrared Sensor https://www.adafruit.com/product/1747  
 Adafruit MMA8451 Triple-Axis Accelerometer https://www.adafruit.com/product/2019  
 
+![salamander prototype](https://github.com/peterhall71/salamander/blob/master/salamander_prototype.jpg?raw=true)
+
 ### File Structure
 
 #### ```/documentation``` folder:  
 A folder holding specifications and documentation on the device hardware.
 
 #### ```/src``` folder:  
-This is the source folder that contains the firmware file.
+This is the source folder that contains the firmware file. If your application contains multiple files, they should all be included in the `src` folder. If your firmware depends on Particle libraries, those dependencies are specified in the `project.properties` file referenced below.
 
-If your application contains multiple files, they should all be included in the `src` folder. If your firmware depends on Particle libraries, those dependencies are specified in the `project.properties` file referenced below.
+#### ```/images``` folder:  
+This folder contains images associated with the project.
 
 #### ```salamander.ino``` file:
 This file is the firmware that will run as the primary application on the Particle. It contains a `setup()` and `loop()` function written in C++. This pulls data from the three boards and prints the output to serial.
